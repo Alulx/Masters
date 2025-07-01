@@ -1,0 +1,31 @@
+{
+  "name": "masterarbeit",
+  "version": "1.0.0",
+  "description": "ac/dt",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alulx/Masterarbeit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alulx/Masterarbeit/issues"
+  },
+  "homepage": "https://github.com/Alulx/Masterarbeit#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.0.12",
+    "@types/mocha": "^10.0.9",
+    "hardhat": "^2.22.15",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.2.0",
+    "dotenv": "^16.4.7",
+    "lit-ceramic-sdk": "^1.1.13"
+  }
+}

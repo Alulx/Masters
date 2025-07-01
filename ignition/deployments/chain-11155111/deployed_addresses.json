@@ -1,0 +1,6 @@
+{
+  "ACModule#ACcontract": "0x04c01E6e642EE5B4f4e933875B8C598a3EDA539A",
+  "FactoryModule#orgaFactory": "0x3c7f86BEb599451AcDe1746ec69DE2648901F834",
+  "ACModule#attestRevoke": "0x00c16eCEe522bBebb4De9a5e7098c1463C77bD26",
+  "FactoryModule#orgaFactoryAttestRevoke": "0x0ff4B3D5Dac7595b2d6d7F045D9CDdEf2e9c4f37"
+}
